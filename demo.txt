@@ -2,3 +2,4 @@ Hello simply learn
 what are you doing
 i am working in a computer
 ok all the best
+face_recognizer = cv2.face.LBPHFaceRecognizer_create()
